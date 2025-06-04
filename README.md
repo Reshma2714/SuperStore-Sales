@@ -70,5 +70,5 @@ This dashboard enables stakeholders to **spot key sales drivers**, understand cu
 
 ## 🔗 Super Store Sales Dashboard
 
-![Super Store Sales Dashboard](./SuperStoreSales_Dashboard.png)
+![Super Store Sales Dashboard](./Super_Stores_Dashboard.png)
 
